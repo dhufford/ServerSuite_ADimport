@@ -1,0 +1,4 @@
+Name,Container,Description,IsOU,Parent
+GLOBAL,"CN=Zones,OU=Centrify,DC=ocean,DC=net",Global UNIX identity namespace,,
+PROD,,Production servers,,"CN=GLOBAL,CN=Zones,OU=Centrify,DC=ocean,DC=net"
+DEV,,Test servers,,"CN=GLOBAL,CN=Zones,OU=Centrify,DC=ocean,DC=net"

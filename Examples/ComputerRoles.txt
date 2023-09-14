@@ -1,0 +1,3 @@
+Zone,Name,Description,Group,Container,Members
+PROD,Application,Application Servers,CSS-C-Z-PROD-Application-Servers,"OU=Computer Groups,OU=Centrify,DC=ocean,DC=net","engcen4,engcen5,engcen8,engcen9"
+DEV,Database,Database Servers,CSS-C-Z-DEV-Database-Servers,"OU=Computer Groups,OU=Centrify,DC=ocean,DC=net","engcen1,engcen2,engcen3,engcen6,engcen7"

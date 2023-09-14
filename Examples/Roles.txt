@@ -1,0 +1,9 @@
+Zone,Name,AuditLevel,Description,UnixSysRights,WinSysRights,HasRescueRight,AllowLocalUser
+GLOBAL,UNIX Admin,possible,"Grant UNIX Login and Root privileges.","login,ssologin,nondzsh,visible",,,
+GLOBAL,TPA Root,required,"Root access given on a temporary basis (Temporary Privileged Access).","nondzsh,visible",,,
+PROD,Application Admin,possible,"Grant UNIX Login and Application Admin privileges.","login,ssologin,nondzsh,visible",,,
+PROD,Application Developer,possible,"Grant UNIX Login onto Application Servers and developer privileges.","login,ssologin,nondzsh,visible",,,
+PROD,Application User,possible,"Grant UNIX Login onto Application Servers.","login,ssologin,nondzsh,visible",,,
+PROD,Windows LocalAdmin,possible,"Grant Windows Login and Desktop with Local Admin privilege",,"console,remote",,
+DEV,DBAdmin,possible,"Grant UNIX Login and Database management privileges.","login,ssologin,nondzsh,visible",,,
+DEV,WebAdmin,possible,"Grant UNIX Login and Apache server management privileges.","login,ssologin,nondzsh,visible",,,

@@ -1,0 +1,3 @@
+Zone,Computer,Name,GID,Group,Container,Members
+DEV,,bcrab,210,CSS-G-Z-DEV-bcrab,"OU=UNIX Groups,OU=Centrify,DC=ocean,DC=net","ron,than,joe"
+,engcen1,bcrab,210,CSS-G-C-engcen1-bcrab,"OU=UNIX Groups,OU=Centrify,DC=ocean,DC=net","ron,than,joe"

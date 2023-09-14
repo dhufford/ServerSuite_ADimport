@@ -1,0 +1,10 @@
+Name,Zone,Container
+engcen1,DEV,"OU=Computers,OU=Centrify,DC=ocean,DC=net"
+engcen2,DEV,"OU=Computers,OU=Centrify,DC=ocean,DC=net"
+engcen3,DEV,"OU=Computers,OU=Centrify,DC=ocean,DC=net"
+engcen4,PROD,"OU=Computers,OU=Centrify,DC=ocean,DC=net"
+engcen5,PROD,"OU=Computers,OU=Centrify,DC=ocean,DC=net"
+engcen6,DEV,"OU=Computers,OU=Centrify,DC=ocean,DC=net"
+engcen7,DEV,"OU=Computers,OU=Centrify,DC=ocean,DC=net"
+engcen8,PROD,"OU=Computers,OU=Centrify,DC=ocean,DC=net"
+engcen9,PROD,"OU=Computers,OU=Centrify,DC=ocean,DC=net"

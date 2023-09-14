@@ -1,0 +1,3 @@
+Name,Zone,Container
+engcen6,"CN=RHEL,CN=UNIX,CN=NonProduction,CN=Zones,OU=Centrify,DC=omicron,DC=lab","OU=Computers,OU=Centrify,DC=omicron,DC=lab"
+engcen7,"CN=RHEL,CN=UNIX,CN=NonProduction,CN=Zones,OU=Centrify,DC=omicron,DC=lab","OU=Computers,OU=Centrify,DC=omicron,DC=lab"

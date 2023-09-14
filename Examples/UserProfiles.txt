@@ -1,0 +1,28 @@
+Zone,Computer,User,Login,Uid,PrimaryGroup,Gecos,HomeDir,Shell
+DEV,,tetsu@ocean.net,tetsu,10022,10022,Tetsu Ishii,/home/tetsu,/bin/bash
+DEV,,clyde@ocean.net,clyde,10025,10025,Clyde Baum,/home/clyde,/bin/bash
+DEV,,justino@ocean.net,justino,10019,10019,Justino,/home/justino,/bin/bash
+DEV,,kminors@ocean.net,kminors,10020,10020,Katherine Minors,/home/kminors,/bin/bash
+DEV,,alyssia@ocean.net,alyssia,10050,10050,Alyssia Osteen,/home/alyssa,/bin/bash
+DEV,,brian@ocean.net,brian,10066,10066,Brian Durkin,/home/brian,/bin/bash
+DEV,,cindy@ocean.net,cindy,10056,10056,Cindy Ritchie,/home/cindy,/bin/bash
+DEV,,darrell@ocean.net,darrell,10068,10068,Darrell Sturdivant,/home/darrell,/bin/bash
+DEV,,dean@ocean.net,dean,10062,10062,Dean Thompson,/home/dean,/bin/bash
+DEV,,ed@ocean.net,ed,10069,10069,Ed Frola,/home/ed,/bin/bash
+DEV,,fel@ocean.net,fel,10064,10064,Felderi Santiago,/home/fel,/bin/bash
+DEV,,fabrice@ocean.net,fabrice,10059,10059,Fabrice Viguier,/home/fabrice,/bin/bash
+DEV,,ian@ocean.net,ian,10060,10060,Ian Guthrie,/home/ian,/bin/bash
+DEV,,jcool@ocean.net,jcool,10019,10019,Joe Cool,/home/jcool,/bin/bash
+DEV,,john@ocean.net,john,10065,10065,John Kimberly,/home/john,/bin/bash
+DEV,,kayne@ocean.net,kayne,10058,10058,Kayne McGladrey,/home/kayne,/bin/bash
+DEV,,louise@ocean.net,louise,10067,10067,Louise Popyk,/home/louise,/bin/bash
+DEV,,ron@ocean.net,ron,10061,10061,Ron Allmand,/home/ron,/bin/bash
+DEV,,steve@ocean.net,steve,10055,10055,Steve Schwartz,/home/steve,/bin/bash
+DEV,,than@ocean.net,than,10057,10057,Than Chariya,/home/than,/bin/bash
+DEV,,wade@ocean.net,wade,10063,10063,Wade Tongen,/home/wade,/bin/bash
+,engcen1,fabrice,fabrice,598,598,Fabrice Viguier,/home/fabrice,/bin/bash
+,engcen1,ian,ian,549,549,Ian Guthrie,/home/ian,/bin/bash
+,engcen1,jcool,jcool,947,947,Joe Cool,/home/jcool,/bin/bash
+,engcen1,john,john,566,566,John Kimberly,/home/john,/bin/bash
+,engcen1,kayne,kayne,590,590,Kayne McGladrey,/home/kayne,/bin/bash
+,engcen1,than,than,521,521,Than Chariya,/home/than,/bin/bash

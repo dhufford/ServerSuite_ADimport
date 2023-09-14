@@ -1,0 +1,3 @@
+Zone,Role,Name,Description,Pattern,PatternType,MatchPath,Priority,DzshRunAs,DzdoRunAsUser,DzdoRunAsGroup,Authentication,AllowNested
+GLOBAL,UNIX Admin,dzdo-all,"Root privileges (User re-Authentication).",*,glob,*,0,,*,*,user,
+GLOBAL,TPA Root,dzdo-all-nopasswd,"Root privileges (NOPASSWD).",*,glob,*,0,,*,*,none,
