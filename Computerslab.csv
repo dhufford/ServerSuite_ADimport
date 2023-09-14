@@ -1,0 +1,4 @@
+Name,Zone,Container
+engcen8,"CN=UNIXZone,CN=Global,CN=Zones,OU=Centrify,DC=omicron,DC=lab","OU=Computers,OU=Centrify,DC=omicron,DC=lab"
+engcen9,"CN=UNIXZone,CN=Global,CN=Zones,OU=Centrify,DC=omicron,DC=lab","OU=Computers,OU=Centrify,DC=omicron,DC=lab"
+
